@@ -1,0 +1,35 @@
+body {
+    background-color: grey;
+    color: aliceblue;
+}
+
+h1{
+    color: red;
+    text-align: center;;
+}
+ul {
+    margin: auto;
+    width: fit-content;
+    font-size: 20px;
+}
+p {
+    text-align: center;
+    font-size: 30px;
+}
+img {
+    display: block;
+    margin: auto;
+    width: 400px;
+    height: 500px;
+}
+div {
+    border: 10px ridge #31A9EE;
+    height: fit-content;
+    width: max-content;
+    margin: auto;
+    width: fit-content;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
